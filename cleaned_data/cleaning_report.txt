@@ -1,0 +1,17 @@
+DATA CLEANING REPORT
+==================================================
+Generated: 2025-08-13 23:06:50
+
+Final Dataset Shapes:
+  categoria.csv: (101, 2)
+  cliente.csv: (8768, 12)
+  events.csv: (295502, 5)
+  marca.csv: (307, 2)
+  producto.csv: (12012, 6)
+
+Cleaning Actions:
+  Categoria: Removed 0 rows
+  Marca: Removed 0 rows
+  Cliente: Removed 3232 rows
+  Producto: Removed 14 rows
+  Events: Removed 753073 rows
